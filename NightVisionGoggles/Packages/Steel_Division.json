@@ -1,0 +1,59 @@
+{
+    "TeamConfig": {
+        "SAS-2": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan"
+        ],
+        "CIV-2": [
+            "PVS-7 Green Phosphor",
+            "PVS-7 White Phosphor",
+            "AN-PVS14 Green Phosphor"
+        ],
+        "ISSF-2": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "RED-2": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "PLASF-2": [
+            "AN-PVS14 Green Phosphor"
+        ],
+        "SOF-2": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "TSF-2": [
+            "PVS-7 Green Phosphor",
+            "PVS-7 White Phosphor",
+            "AN-PVS14 Green Phosphor"
+        ],
+        "USSF-2": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan",
+            "GPNVG-18 Black"
+        ],
+        "ETF-2": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan",
+            "GPNVG-18 Black"
+        ],
+        "SSPR-2": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "PMC-2": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "PVS-7 Green Phosphor"
+        ]
+    }
+}

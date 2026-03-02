@@ -1,7 +1,8 @@
 {
   "Version": 1,
   "TeamPackages": [
-    "Default"
+    "Default",
+    "Steel_Division"
   ],
   "ModelPackages": [
     "LowVignetteModels"
@@ -13,6 +14,7 @@
     "Default"
   ],
   "MaterialParamCollections": {
+    "/Steel_Division/Art/Materials/MFC_LaserControls.MFC_LaserControls": "UseNVG",
     "/LightsAndLasers/Art/Items/Lasers/Materials/MFC_LaserControls.MFC_LaserControls": "UseNVG"
   }
 }
