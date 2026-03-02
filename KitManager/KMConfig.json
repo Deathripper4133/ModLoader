@@ -1,0 +1,10 @@
+{
+    "bCanRepack":true,
+    "bCanShare":true,
+    "bPreciseRepackUseLiteralOrPercentTimer":false,
+    "fPreciseRepackTimer":0.5,
+    "bVerboseLogging":false,
+    "Packages":[
+        "Default"
+    ]
+}

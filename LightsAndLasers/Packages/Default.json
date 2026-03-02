@@ -1,0 +1,93 @@
+{
+    "Attachments":{
+        "ANPEQ-15":{
+            "bHasLaser": true,
+            "LaserTransform":{
+                "Location":"(X=5.000000,Y=2.000000,Z=1.000000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasIRLaser": true,
+            "IRLaserTransform":{
+                "Location":"(X=5.000000,Y=1.000000,Z=2.000000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasFlashlight": true,
+            "FlashlightTransform":{
+                "Location":"(X=5.000000,Y=2.000000,Z=0.000000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bSimultaneousLasers": true
+        },
+        "ANPEQ-16":{
+            "bHasLaser": true,
+            "LaserTransform":{
+                "Location":"(X=5.000000,Y=-3.200000,Z=1.200000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasFlashlight": true,
+            "FlashlightTransform":{
+                "Location":"(X=5.000000,Y=2.100000,Z=1.900000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1.000000,Y=1.000000,Z=1.000000)"
+            }          
+        },
+        "PEQ-16_Side_SL":{
+            "bHasLaser":true,
+            "LaserTransform":{
+                "Location":"(X=5.000000,Y=-3.900000,Z=0.000000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasIRLaser": true,
+            "IRLaserTransform":{
+                "Location":"(X=5.000000,Y=-3.900000,Z=0.000000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasFlashlight": true,
+            "FlashlightTransform":{
+                "Location":"(X=5.000000,Y=0.100000,Z=0.200000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bSimultaneousLasers": false
+        },
+        "PEQ-16_Side":{
+            "bHasLaser": true,
+            "LaserTransform":{
+                "Location":"(X=3.000000,Y=-1.000000,Z=1.600000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasIRLaser": true,
+            "IRLaserTransform":{
+                "Location":"(X=3.000000,Y=-1.000000,Z=1.600000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasFlashlight": true,
+            "FlashlightTransform":{
+                "Location":"(X=3.000000,Y=0.800000,Z=1.500000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bSimultaneousLasers": false
+        },
+
+        "PAQ":{
+            "bHasLaser": true,
+            "LaserTransform":{
+                "Location":"(X=8.100000,Y=4.300000,Z=1.700000)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            }          
+        }
+
+    }
+
+
+}

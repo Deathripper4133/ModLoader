@@ -1,0 +1,18 @@
+{
+  "Version": 1,
+  "TeamPackages": [
+    "Default"
+  ],
+  "ModelPackages": [
+    "LowVignetteModels"
+  ],
+  "VehiclePackages": [
+    "Default"
+  ],
+  "AdminPackages": [
+    "Default"
+  ],
+  "MaterialParamCollections": {
+    "/LightsAndLasers/Art/Items/Lasers/Materials/MFC_LaserControls.MFC_LaserControls": "UseNVG"
+  }
+}

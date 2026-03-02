@@ -1,0 +1,66 @@
+{
+    "5.56 Weapons": {
+        "intCaliber": 556,
+        "ParentClasses": [
+            "/Game/Blueprints/Items/Rifles/BP_M4A1.BP_M4A1_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_M249_Pip.BP_M249_Pip_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_M240.BP_M240_C",
+            "/Game/Blueprints/Items/Rifles/BP_M110_Optic.BP_M110_Optic_C",
+            "/Game/Blueprints/Items/Rifles/BP_M16A2.BP_M16A2_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_M27_IAR_Parent.BP_M27_IAR_Parent_C",
+            "/Game/Blueprints/Items/Rifles/BP_M38_DMR_Optic.BP_M38_DMR_Optic_C"
+        ]
+    },
+    "7.62 Weapons": {
+        "intCaliber": 762,
+        "ParentClasses": [
+            "/Game/Blueprints/Items/MachineGuns/BP_PKM.BP_PKM_C",
+            "/Game/Blueprints/Items/Rifles/BP_AK74.BP_AK74_C",
+            "/Game/Blueprints/Items/Rifles/BP_AK12.BP_AK12_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_RPK.BP_RPK_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_RPK74.BP_RPK74_C",
+            "/Game/Blueprints/Items/Rifles/BP_SVD_Optic.BP_SVD_Optic_C",
+            "/Game/Blueprints/Items/Rifles/BP_G3.BP_G3_C",
+            "/Game/Blueprints/Items/Rifles/BP_AKM.BP_AKM_C",
+            "/Game/Blueprints/Items/Rifles/BP_SKS.BP_SKS_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_MG3.BP_MG3_C",
+            "/Game/Blueprints/Items/SubmachineGuns/PPSH41/BP_Ppsh41_Stick.BP_Ppsh41_Stick_C",
+            "/Game/Blueprints/Items/Rifles/BP_Mosin_M1891.BP_Mosin_M1891_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_RPD.BP_RPD_C"
+        ]
+    },
+    "9mm Weapons": {
+        "intCaliber": 9,
+        "ParentClasses": [
+            "/Game/Blueprints/Items/SubmachineGuns/MP5/BP_MP5A3.BP_MP5A3_C",
+            "/Game/Blueprints/Items/Rifles/BP_ASVAL.BP_ASVAL_C",
+            "/Game/Blueprints/Items/Pistols/BP_M9.BP_M9_C",
+            "/Game/Blueprints/Items/Pistols/BP_M17MHS.BP_M17MHS_C",
+            "/Game/Blueprints/Items/Pistols/BP_MP443.BP_MP443_C",
+            "/Game/Blueprints/Items/Pistols/BP_Makarov.BP_Makarov_C",
+            "/Game/Blueprints/Items/Pistols/BP_L131A1.BP_L131A1_C",
+            "/Game/Blueprints/Items/Pistols/BP_QSZ-92_Pistol.BP_QSZ-92_Pistol_C"
+        ]
+    },
+    ".32 ACP": {
+        "intCaliber": 32,
+        "ParentClasses": [
+            "/Game/Blueprints/Items/SubmachineGuns/VZ61/BP_Vz61.BP_Vz61_C"
+        ]
+    },
+    "7.62 x 25 Sidearm": {
+        "intCaliber": 76225,
+        "ParentClasses": [
+            "/Game/Blueprints/Items/Pistols/BP_TT33.BP_TT33_C"
+        ]
+    },
+    "5.8 x 42mm Weapons": {
+        "intCaliber": 5842,
+        "ParentClasses": [
+            "/Game/Blueprints/Items/Rifles/BP_QBZ95-1.BP_QBZ95-1_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_QJB95-1_LSW.BP_QJB95-1_LSW_C",
+            "/Game/Blueprints/Items/Rifles/BP_QBU-88_Parent.BP_QBU-88_Parent_C",
+            "/Game/Blueprints/Items/MachineGuns/BP_QJY-88.BP_QJY-88_C"
+        ]
+    }
+}

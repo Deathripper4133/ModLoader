@@ -1,0 +1,63 @@
+{
+	"Version": 2,
+	"bSeedModsOnlyDuringSeeding": false,
+	"bUseGeneralModsForFireteam": false,
+	"mods": {
+		"/NightVisionGoggles/BP_NVGs.BP_NVGs_C": true,
+		"Blueprint'/MiniMapManager/Blueprints/BP_MiniMapManager.BP_MiniMapManager_C'": true,
+		"/LightsAndLasers/Blueprints/BP_LightsAndLasers.BP_LightsAndLasers_C": true,
+		"/SoundByte_Manager/Blueprints/BP_SoundByteManager.BP_SoundByteManager_C": true,
+		"/DynamicWeatherSystem/BP_Squad_UltraDynamicWeather_01_Random.BP_Squad_UltraDynamicWeather_01_Random_C": true,
+		"/RadialsForEveryone/Blueprints/BP_RFE.BP_RFE_C": true,
+		"Blueprint'/Kit_Manager/Blueprints/BP_MagRepackShareManager.BP_MagRepackShareManager_C'": true
+	},
+	"rulesets": {
+
+	},
+	"seedMods": {
+		"/NightVisionGoggles/BP_NVGs.BP_NVGs_C": true,
+		"Blueprint'/MiniMapManager/Blueprints/BP_MiniMapManager.BP_MiniMapManager_C'": true,
+		"/LightsAndLasers/Blueprints/BP_LightsAndLasers.BP_LightsAndLasers_C": true,
+		"/SoundByte_Manager/Blueprints/BP_SoundByteManager.BP_SoundByteManager_C": true,
+		"/DynamicWeatherSystem/BP_Squad_UltraDynamicWeather_01_Random.BP_Squad_UltraDynamicWeather_01_Random_C": true,
+		"/RadialsForEveryone/Blueprints/BP_RFE.BP_RFE_C": true,
+		"Blueprint'/Kit_Manager/Blueprints/BP_MagRepackShareManager.BP_MagRepackShareManager_C'": true
+	},
+	"seedRulesets": {
+
+	},
+	"fireteamMods": {
+		"/NightVisionGoggles/BP_NVGs.BP_NVGs_C": true,
+		"Blueprint'/MiniMapManager/Blueprints/BP_MiniMapManager.BP_MiniMapManager_C'": false,
+		"/LightsAndLasers/Blueprints/BP_LightsAndLasers.BP_LightsAndLasers_C": true,
+		"/SoundByte_Manager/Blueprints/BP_SoundByteManager.BP_SoundByteManager_C": true,
+		"/DynamicWeatherSystem/BP_Squad_UltraDynamicWeather_01_Random.BP_Squad_UltraDynamicWeather_01_Random_C": true,
+		"/RadialsForEveryone/Blueprints/BP_RFE.BP_RFE_C": true,
+		"Blueprint'/Kit_Manager/Blueprints/BP_MagRepackShareManager.BP_MagRepackShareManager_C'": true
+	},
+	"fireteamRulesets": {
+
+	},
+	"Widgets": [
+		{
+			"buttonName": "Night Vision",
+			"WidgetRef": "/NightVisionGoggles/UI/W_NightVision_Options.W_NightVision_Options_C",
+			"bIsAdmin": false
+		}
+	],
+	"Json_Config": [
+		"ModLoader.json",
+		"/DynamicWeather/DynamicWeather.json",
+		"/KitManager/KMConfig.json",
+		"/KitManager/Packages/Default.json",
+		"/LightsAndLasers/LL_Config.json",
+		"/LightsAndLasers/Packages/Default.json",
+		"/MiniMapManager/M3Config.json",
+		"/MiniMapManager/Packages/SquadCalc.json",
+		"/NightVisionGoggles/NVG_Config.json",
+		"/NightVisionGoggles/Packages/Default.json",
+		"/NightVisionGoggles/Packages/LowVignetteModels.json",
+		"/SoundByteManager/Config.json",
+		"/SoundByteManager/Packages/Template.json"
+	]
+}
