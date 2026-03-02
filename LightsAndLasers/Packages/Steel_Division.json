@@ -1,0 +1,25 @@
+{
+    "Attachments":{
+        "AN-PEQ17":{
+            "bHasLaser": true,
+            "LaserTransform":{
+                "Location":"(X=3.814070,Y=1.929747,Z=-0.590977)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasIRLaser": true,
+            "IRLaserTransform":{
+                "Location":"(X=3.937788,Y=1.223646,Z=0.502590)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1000.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bHasFlashlight": true,
+            "FlashlightTransform":{
+                "Location":"(X=5.462382,Y=-2.170590,Z=-0.391249)",
+                "Rotation":"(Pitch=0.000000,Yaw=0.000000,Roll=0.000000)",
+                "Scale":"(X=1.000000,Y=1.000000,Z=1.000000)"
+            },
+            "bSimultaneousLasers": true
+        }
+    }
+}
