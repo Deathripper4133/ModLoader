@@ -1,0 +1,8 @@
+{
+    "Songs":{
+        "Song 1":{
+            "SongURL":"https://AUDIO_URL.mp3",
+            "IconURL":"https://IMAGE_URL"
+        }
+    }
+}

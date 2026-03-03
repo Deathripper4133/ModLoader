@@ -1,6 +1,9 @@
 {
     "Version":1,
     "RadioPackages":[
-        "Template"
+        "TemplateRadioStations"
+    ],
+    "SongPackages":[
+        "TemplateSongs"
     ]
 }
