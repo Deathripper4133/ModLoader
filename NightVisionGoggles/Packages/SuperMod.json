@@ -1,0 +1,163 @@
+{
+    "TeamConfig": {
+        
+        "SU_AFINS": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_AFRINS": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_ADF": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31"
+        ],
+        "SU_BAF": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan"
+        ],
+        "SU_CAF": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31"
+        ],
+        "SU_FSA": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_FLA": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_FLA20": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_IGF": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_IAGF": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_IDF": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_EIMF": [
+            "PVS-7 Green Phosphor",
+            "PVS-7 White Phosphor",
+            "AN-PVS14 Green Phosphor"
+        ],
+        "SU_MEINS": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_MEIMF": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_PALINS": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_PLAGF": [
+            "AN-PVS14 Green Phosphor"
+        ],
+        "SU_UGF20": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_UGF24": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_SAA": [
+            "AN-PVS14 Green Phosphor"
+        ],
+        "SU_RGF": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_TLF": [
+            "PVS-7 Green Phosphor",
+            "PVS-7 White Phosphor",
+            "AN-PVS14 Green Phosphor"
+        ],
+        "SU_USA": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan",
+            "GPNVG-18 Black"
+        ],
+        "SU_USMC": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan",
+            "GPNVG-18 Black"
+        ],
+        "SU_VDV": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_FSF": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan",
+            "GPNVG-18 Black"
+        ],
+        "SU_ISF": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_IRGC": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_MFR": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan",
+            "GPNVG-18 Black"
+        ],
+        "SU_RSF": [
+            "1PN138",
+            "PVS-7 Green Phosphor"
+        ],
+        "SU_UKSF": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31"
+        ],
+        "SU_USSF": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31",
+            "GPNVG-18 Tan",
+            "GPNVG-18 Black"
+        ],
+        "SU_USF": [
+            "AN-PVS14 Green Phosphor",
+            "AN-PVS14 White Phosphor",
+            "PVS-31"
+        ]
+    }
+
+}

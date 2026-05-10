@@ -2,7 +2,8 @@
   "Version": 1,
   "TeamPackages": [
     "Default",
-    "Steel_Division"
+    "Steel_Division",
+    "SuperMod"
   ],
   "ModelPackages": [
     "LowVignetteModels"
