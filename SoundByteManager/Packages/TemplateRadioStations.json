@@ -1,8 +1,11 @@
 {
     "RadioStations":{    
-        "Latin":[
-            "Song 1",
-            "Song 2"
-        ]
+        "Latin":{
+            "Songs":[
+                "Song 1",
+                "Song 2"
+            ],
+            "bShuffle": false
+        }
     }
 }
